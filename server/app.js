@@ -65,5 +65,5 @@ const pubsub = new PubSub()
 const server = new GraphQLServer({ typeDefs, resolvers, opts, context: { pubsub } })
 
 server.start(() => {
-    console.log('Started graphql sevrer !!! ');
+    console.log('Started graphql server !!! ');
 });
