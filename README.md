@@ -1,6 +1,6 @@
 # react-grahql-chat-application
 
-A simeple chat application using GraphQl Subscriptions.
+A simple chat application using GraphQl Subscriptions.
 * Frontend - React Js, Apollo-Client (GraphQl Client), Redux Store (state management)
 * Backend - Node Js, GraphQl Yoga (GraphQl Server).
 
@@ -34,7 +34,16 @@ Download Dependencies
 
 `npm install`
 
-Run the server
+Run the client application
 
 `npm start`
+
+# Screenshots
+
+### Login Screen
+<img src="https://github.com/HepaCoder/react-grahql-chat-application/blob/main/screenshots/Register.png" height="70%" width="70%" />
+
+### Chat Screen
+<img src="https://github.com/HepaCoder/react-grahql-chat-application/blob/main/screenshots/Chats.png" height="70%" width="70%" />
+
 
