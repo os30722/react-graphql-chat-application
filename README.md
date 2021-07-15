@@ -8,7 +8,7 @@ A simple chat application using GraphQl Subscriptions.
 
 Clone the project
 
-`git clone https://github.com/HepaCoder/react-grahql-chat-application.git`
+`git clone https://github.com/HepaCoder/react-graphql-chat-application.git`
 
 ## To start the server
 
