@@ -26,7 +26,7 @@ Run the server
 
 ## To start the client application
 
-cd into the "client" folder
+cd the "client" folder
 
 `cd client`
 
